@@ -1,3 +1,3 @@
 Nord's repository for static, HTML 2-page assignment derived from Sample.
-2 linked HTML files include: index.html and sub.html with 3 images.
+2 linked HTML files include: index.html and sub.html with 4 images.
 And 1 css file
