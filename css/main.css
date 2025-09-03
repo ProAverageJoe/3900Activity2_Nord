@@ -107,7 +107,7 @@ PAGE:
 **************************************/
 .mydiv {background: lightblue; width:250px; height: 250px;}
 
-.professional looking pic {
+.prof-pic {
     float: left;
     width: 150px;
     height: 175px;
@@ -115,7 +115,7 @@ PAGE:
     border-radius: 20px;
 }
 
-.golf_pic {
+.golf-pic {
     display: block;
     max-width: 250px;
     margin: 0 auto 30px;
