@@ -33,7 +33,10 @@ div {
 	display: flex;
 	justify-content: center;
 }
-
+.watch-with-txt {
+	text-align: justify;
+	width: 80%;
+}
 .watch-with-txt img {
 	display: block;
 	margin: 0 auto;
