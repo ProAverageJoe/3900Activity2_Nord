@@ -29,6 +29,10 @@ max-width: 100%;
      margin: 0 0 1em 0;
  }
 
+div {
+	display: flex;
+	justify-content: center;
+}
 
 /*************************************
 HEADING
@@ -121,8 +125,11 @@ PAGE:
 .watch-photo {
 	float: center;
 	border-radius: 8px;
+	width: 50%;
 }
-	
+ .sub-photo {
+	 width: 50%;
+ }
 
 
  /*************************************
