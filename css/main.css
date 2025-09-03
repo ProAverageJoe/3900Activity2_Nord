@@ -36,8 +36,7 @@ div {
 div.watch-with-txt {
 	vertical-align: top;
 	display: inline-block;
-	text-align: center
-	width 400px;
+	text-align: center;
 }
 .watch-with-txt img {
 	display: block;
