@@ -115,8 +115,8 @@ PAGE:
 
 .golf-pic {
     display: block;
-    max-width: 250px;
-    border-radius: 5px;
+    width: 50%;
+    border-radius: 20px;
 }
 
 .watch-photo {
@@ -127,17 +127,6 @@ PAGE:
  .sub-photo {
 	 width: 50%;
  }
-
-
- /*************************************
-PAGE: ABOUT
-**************************************/
-.profile-photo {
-    display: block;
-    max-width: 400px;
-    margin: 0 auto 30px;
-    border-radius: 5px;
-}
 
 /*************************************
 COLORS
