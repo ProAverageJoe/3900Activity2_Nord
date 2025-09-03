@@ -5,7 +5,7 @@ GENERAL
 **************************************/
 a {
  text-decoration: none;
-  color: #0d50cd;
+  color: blue;
  }
 
 img {
@@ -46,12 +46,6 @@ header {
  text-align: center
 }
 
-
-#logo {
-   text-align: center;
-   margin: 0;
-
- }
 
  h1  {
  font-family: 'Changa One', sans-serif;
@@ -101,15 +95,8 @@ nav li {
 }
 
 /*************************************
-FOOTER
+FOOTER - Removed 
 **************************************/
- .footer {
- font-size: 0.75em;
- text-align: center;
- clear: both;
- padding-top: 50px;
- color: #ccc;
- }
 
 /*************************************
 PAGE:
@@ -117,10 +104,10 @@ PAGE:
 .mydiv {background: lightblue; width:250px; height: 250px;}
 
 .professional looking pic {
-    float:left;
-    width:150px;
-    height:175px;
-    margin:20px;
+    float: left;
+    width: 150px;
+    height: 175px;
+    margin: 20px;
     border-radius: 20px;
 }
 
@@ -131,6 +118,11 @@ PAGE:
     border-radius: 5px;
 }
 
+.icex_watch {
+	float: center;
+	border-radius: 8px;
+}
+	
 
 
  /*************************************
